@@ -53,6 +53,44 @@
       ],
       "inStock": true,
       "featured": false
+    },
+    {
+      "id": "pmwgmwr3q",
+      "name": "T shirt",
+      "category": "T-shirts",
+      "price": 500,
+      "mrp": 400,
+      "desc": "",
+      "badge": "",
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "colors": [
+        {
+          "name": "White",
+          "hex": "#f5f5f5"
+        },
+        {
+          "name": "Black",
+          "hex": "#111111"
+        },
+        {
+          "name": "Grey",
+          "hex": "#8a8a8a"
+        }
+      ],
+      "images": [
+        "images/pmwgmwr3q-mwgmxgre33.jpg",
+        "images/pmwgmwr3q-mwgmxx8u79.jpg"
+      ],
+      "inStock": true,
+      "featured": false,
+      "imgColor": {
+        "images/pmwgmwr3q-mwgmxgre33.jpg": "Black",
+        "images/pmwgmwr3q-mwgmxx8u79.jpg": "White"
+      }
     }
   ]
 }

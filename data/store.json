@@ -83,30 +83,6 @@
       "images": [],
       "inStock": true,
       "featured": true
-    },
-    {
-      "id": "sample3",
-      "name": "Slim fit jeans",
-      "category": "Jeans",
-      "price": 1299,
-      "mrp": 0,
-      "desc": "Sample product.",
-      "badge": "",
-      "sizes": [
-        "S",
-        "M",
-        "L",
-        "XL"
-      ],
-      "colors": [
-        {
-          "name": "Navy",
-          "hex": "#1f2a44"
-        }
-      ],
-      "images": [],
-      "inStock": false,
-      "featured": false
     }
   ]
 }

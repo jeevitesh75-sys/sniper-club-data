@@ -1,0 +1,112 @@
+{
+  "settings": {
+    "whatsapp": "",
+    "phone": "",
+    "instagram": "",
+    "announcement": "Sample products. Delete them in the admin panel."
+  },
+  "coupons": [
+    {
+      "code": "SNIPER10",
+      "percent": 10,
+      "active": true
+    }
+  ],
+  "categories": [
+    "T-shirts",
+    "Shirts",
+    "Hoodies",
+    "Jackets",
+    "Jeans",
+    "Joggers",
+    "Shorts",
+    "Accessories"
+  ],
+  "products": [
+    {
+      "id": "sample1",
+      "name": "Classic logo tee",
+      "category": "T-shirts",
+      "price": 799,
+      "mrp": 999,
+      "desc": "Sample product. Replace it from the admin panel.",
+      "badge": "New",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "colors": [
+        {
+          "name": "Black",
+          "hex": "#111111"
+        },
+        {
+          "name": "White",
+          "hex": "#f5f5f5"
+        },
+        {
+          "name": "Olive",
+          "hex": "#5b6b3a"
+        }
+      ],
+      "images": [],
+      "inStock": true,
+      "featured": true
+    },
+    {
+      "id": "sample2",
+      "name": "Oversized hoodie",
+      "category": "Hoodies",
+      "price": 1499,
+      "mrp": 1999,
+      "desc": "Sample product.",
+      "badge": "Bestseller",
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "colors": [
+        {
+          "name": "Black",
+          "hex": "#111111"
+        },
+        {
+          "name": "Grey",
+          "hex": "#8a8a8a"
+        }
+      ],
+      "images": [],
+      "inStock": true,
+      "featured": true
+    },
+    {
+      "id": "sample3",
+      "name": "Slim fit jeans",
+      "category": "Jeans",
+      "price": 1299,
+      "mrp": 0,
+      "desc": "Sample product.",
+      "badge": "",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        {
+          "name": "Navy",
+          "hex": "#1f2a44"
+        }
+      ],
+      "images": [],
+      "inStock": false,
+      "featured": false
+    }
+  ]
+}

@@ -22,5 +22,37 @@
     "Shorts",
     "Accessories"
   ],
-  "products": []
+  "products": [
+    {
+      "id": "pmwgm01hb",
+      "name": "T shirt",
+      "category": "T-shirts",
+      "price": 1000,
+      "mrp": 999,
+      "desc": "",
+      "badge": "New",
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "colors": [
+        {
+          "name": "Black",
+          "hex": "#111111"
+        },
+        {
+          "name": "White",
+          "hex": "#f5f5f5"
+        }
+      ],
+      "images": [
+        "images/pmwgm01hb-mwgm38e921.jpg",
+        "images/pmwgm01hb-mwgm3xri89.jpg",
+        "images/pmwgm01hb-mwgm4u6c46.jpg"
+      ],
+      "inStock": true,
+      "featured": false
+    }
+  ]
 }

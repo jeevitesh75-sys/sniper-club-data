@@ -55,34 +55,6 @@
       "images": [],
       "inStock": true,
       "featured": true
-    },
-    {
-      "id": "sample2",
-      "name": "Oversized hoodie",
-      "category": "Hoodies",
-      "price": 1499,
-      "mrp": 1999,
-      "desc": "Sample product.",
-      "badge": "Bestseller",
-      "sizes": [
-        "M",
-        "L",
-        "XL",
-        "XXL"
-      ],
-      "colors": [
-        {
-          "name": "Black",
-          "hex": "#111111"
-        },
-        {
-          "name": "Grey",
-          "hex": "#8a8a8a"
-        }
-      ],
-      "images": [],
-      "inStock": true,
-      "featured": true
     }
   ]
 }

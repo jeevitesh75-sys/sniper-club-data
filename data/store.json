@@ -22,39 +22,5 @@
     "Shorts",
     "Accessories"
   ],
-  "products": [
-    {
-      "id": "sample1",
-      "name": "Classic logo tee",
-      "category": "T-shirts",
-      "price": 799,
-      "mrp": 999,
-      "desc": "Sample product. Replace it from the admin panel.",
-      "badge": "New",
-      "sizes": [
-        "S",
-        "M",
-        "L",
-        "XL",
-        "XXL"
-      ],
-      "colors": [
-        {
-          "name": "Black",
-          "hex": "#111111"
-        },
-        {
-          "name": "White",
-          "hex": "#f5f5f5"
-        },
-        {
-          "name": "Olive",
-          "hex": "#5b6b3a"
-        }
-      ],
-      "images": [],
-      "inStock": true,
-      "featured": true
-    }
-  ]
+  "products": []
 }
